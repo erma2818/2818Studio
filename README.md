@@ -1,6 +1,12 @@
-# 2818 Stdio :link: https://erma2818.github.io/2818Studio 
-### :page_facing_up: [1](https://erma2818.github.io/2818Studio/tag.html) 
-### :speech_balloon: 0 
-### :hibiscus: 567 
-### :alarm_clock: 2025-06-08 22:50:29 
-### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
+# 👀 欢迎来到 2818 Stdio！  
+这里是我的小小数字花园，由 [Gmeek](https://github.com/Meekdai/Gmeek) 博客模板强力驱动（感谢大佬的开源，点赞！）。
+
+## 🌈 你将会看到什么？  
+- 日常碎碎念：生活中的奇思妙想、灵光乍现，偶尔也有“社恐”自救指南
+- 兴趣分享：摄影、美食、旅行、电影……反正我感兴趣的都会有！
+- 技术折腾：作为一个100%编程小白折腾一些感兴趣的GitHub项目的记录
+- 奇奇怪怪的脑洞：不定期放飞自我，9up一下！
+
+---
+
+希望能在这里燃点小小的分享欲望之火🔥
